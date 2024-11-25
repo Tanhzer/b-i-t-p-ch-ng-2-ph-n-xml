@@ -1,0 +1,10 @@
+<Company>
+    <Name>Công ty ABC</Name>
+    <Director>
+        <Name>Nguyễn Văn A</Name>
+        <Phone>0123456789</Phone>
+    </Director>
+    <Address>123 Đường Lê Lợi, Quận 1, TP.HCM</Address>
+    <Phone>0987654321</Phone>
+    <TaxCode>123456789</TaxCode>
+</Company>
